@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ad7cacaaf1a8f124",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d54189601da4412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a772e83331ab671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/本地文件放到GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d41975665cbea4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7de0483a5d50e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0817faf270a31d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29c7cae9060bbd11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06295a4df7e8451e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8951f4dfe6ff697e",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cf860b347f9c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e76b56df40e965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "github/本地文件放到GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4971eea09703f225",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "github/本地文件放到GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff438c77925b4185",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec49bf1ebb2fa463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "github/本地文件放到GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6a772e83331ab671",
+  "lastOpenFiles": [
+    "Gym使用/Gym.md",
+    "github/本地文件放到GitHub.md",
+    "github",
+    "Gym使用/images/Pasted image 20230627001046.png",
+    "Obsidian笔记/添加超链接.md",
+    "[Release.md",
+    "Obsidian笔记/添加代码块.md",
+    "Obsidian笔记",
+    "Gym使用/images",
+    "PyCharm/基本用法.md",
+    "PyCharm/images/Pasted image 20230626232953.png",
+    "PyCharm/images/Pasted image 20230626232557.png",
+    "PyCharm/images",
+    "PyCharm/images/Pasted image 20230626232536.png",
+    "PyCharm/images/Pasted image 20230626232516.png",
+    "PyCharm/必用插件.md",
+    "Anaconda/切换环境.md",
+    "PyCharm",
+    "Gym.md",
+    "Gym使用",
+    "Anaconda/images/Pasted image 20230626224921.png",
+    "Anaconda/images/Pasted image 20230626224857.png",
+    "Anaconda/images/Pasted image 20230626223354.png",
+    "Anaconda/images/Pasted image 20230626222203.png",
+    "Anaconda/images/Pasted image 20230626221901.png",
+    "Anaconda/images",
+    "Anaconda"
+  ]
+}
