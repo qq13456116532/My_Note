@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9d54189601da4412",
+        "id": "3cb549f21995185b",
         "type": "tabs",
         "children": [
           {
-            "id": "6a772e83331ab671",
+            "id": "89e2a510b36318ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/本地文件放到GitHub.md",
+                "file": "强化学习/gym.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ff83fa9d36648f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "强化学习/DQN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/本地文件放到GitHub.md",
+                "file": "强化学习/DQN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/本地文件放到GitHub.md",
+                "file": "强化学习/DQN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/本地文件放到GitHub.md"
+                "file": "强化学习/DQN.md"
               }
+            }
+          },
+          {
+            "id": "0af1fff40930a78e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -146,36 +167,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a772e83331ab671",
+  "active": "34ff83fa9d36648f",
   "lastOpenFiles": [
-    "1.pub",
-    "1",
-    "Gym使用/Gym.md",
-    "github/本地文件放到GitHub.md",
-    "github",
-    "Gym使用/images/Pasted image 20230627001046.png",
-    "Obsidian笔记/添加超链接.md",
-    "[Release.md",
-    "Obsidian笔记/添加代码块.md",
-    "Obsidian笔记",
-    "Gym使用/images",
-    "PyCharm/基本用法.md",
-    "PyCharm/images/Pasted image 20230626232953.png",
-    "PyCharm/images/Pasted image 20230626232557.png",
-    "PyCharm/images",
-    "PyCharm/images/Pasted image 20230626232536.png",
-    "PyCharm/images/Pasted image 20230626232516.png",
-    "PyCharm/必用插件.md",
+    "强化学习/gym.md",
+    "强化学习/DQN.md",
+    "强化学习/images/Pasted image 20230711195135.png",
+    "PyTorch/模型保存.md",
     "Anaconda/切换环境.md",
-    "PyCharm",
-    "Gym.md",
-    "Gym使用",
-    "Anaconda/images/Pasted image 20230626224921.png",
-    "Anaconda/images/Pasted image 20230626224857.png",
-    "Anaconda/images/Pasted image 20230626223354.png",
-    "Anaconda/images/Pasted image 20230626222203.png",
-    "Anaconda/images/Pasted image 20230626221901.png",
-    "Anaconda/images",
-    "Anaconda"
+    "PyTorch/1. 安装.md",
+    "pip/配合Clash.md",
+    "强化学习/基础代码.md",
+    "强化学习/images/动画.gif",
+    "pip/更新pip.md",
+    "强化学习/images",
+    "强化学习/images/Pasted image 20230710000300.png",
+    "强化学习",
+    "PyTorch/4. Transforms.md",
+    "PyTorch/2. 基础知识.md",
+    "PyTorch/3. TensorBoard.md",
+    "PyTorch/使用Gpu.md",
+    "PyTorch/官网模型.md",
+    "PyTorch/images/Pasted image 20230708151412.png",
+    "PyTorch/images/Pasted image 20230708151407.png",
+    "PyTorch/images/Pasted image 20230708151348.png",
+    "PyTorch/images/Pasted image 20230708151104.png",
+    "PyTorch/images/Pasted image 20230708145238.png",
+    "PyTorch/images/Pasted image 20230708145212.png",
+    "PyTorch/神经网络.md",
+    "PyTorch/images/Pasted image 20230708142508.png",
+    "PyTorch/变换形状.md",
+    "PyTorch/标准数据集.md",
+    "PyCharm/Python Console.md",
+    "PyTorch/Data/hymenoptera_data.zip",
+    "PyTorch/Data/未确认 503859.crdownload",
+    "PyTorch/Data",
+    "PyTorch/新建文件夹",
+    "Clash for Windows/解决打不开微软商店问题.md",
+    "Clash for Windows/images",
+    "Clash for Windows",
+    "PyTorch/images",
+    "PyTorch",
+    "PyCharm/修改镜像.md",
+    "Anaconda/在pycharm中使用.md",
+    "WSL/WSL2的使用.md",
+    "Django/重置一个表的自增 ID.md",
+    "Django/修改models.md",
+    "未命名.md",
+    "PyCharm/基本用法.md"
   ]
 }
