@@ -55,6 +55,16 @@
       "id": "obsidian-plugin-toc:create-toc",
       "name": "Table of Contents: Create table of contents",
       "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "name": "无序列表",
+      "icon": "lucide-list"
     }
   ],
   "appendMethod": "workspace",

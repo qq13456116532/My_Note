@@ -1,4 +1,4 @@
-
+![](images/Pasted%20image%2020230725215940.png)
 
 # 解决平衡车
 ![[Pasted image 20230711195135.png]]
