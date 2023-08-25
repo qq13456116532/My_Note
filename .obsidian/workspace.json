@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0b099aafe65d0a",
+        "id": "3111362f02581a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "60d0442739dbffd8",
+            "id": "05101c8c6c468afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a535e843465c808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/本地文件放到GitHub.md",
+                "file": "强化学习/模型预测控制方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强化学习/基础.md",
+                "file": "强化学习/模型预测控制方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "强化学习/基础.md",
+                "file": "强化学习/模型预测控制方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "强化学习/基础.md"
+                "file": "强化学习/模型预测控制方法.md"
               }
             }
           },
@@ -166,53 +154,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "60d0442739dbffd8",
+  "active": "05101c8c6c468afc",
   "lastOpenFiles": [
-    "强化学习/images/Pasted image 20230727224042.png",
-    "强化学习/images/Pasted image 20230727222959.png",
-    "强化学习/images/Pasted image 20230727211950.png",
-    "强化学习/images/Pasted image 20230727210213.png",
-    "强化学习/images/Pasted image 20230727210141.png",
-    "强化学习/images/Pasted image 20230727202920.png",
-    "强化学习/images/Pasted image 20230727201043.png",
-    "强化学习/images/Pasted image 20230727200756.png",
-    "强化学习/images/Pasted image 20230727200231.png",
-    "强化学习/images/Pasted image 20230727200202.png",
-    "强化学习/images/Pasted image 20230727191126.png",
-    "Github/本地文件放到GitHub.md",
-    "OpenAI/Gym.md",
-    "强化学习/基础.md",
-    "生活笔记.md",
-    "OpenAI/images",
-    "强化学习/gym.md",
-    "OpenAI",
-    "强化学习/DQN.md",
-    "深度学习/循环神经网络.md",
-    "深度学习/cifar10多分类.md",
-    "pip/配合Clash.md",
-    "深度学习/ResNet.md",
-    "深度学习/MINIST识别.md",
+    "强化学习/images/Pasted image 20230825232544.png",
+    "强化学习/images/Pasted image 20230825232520.png",
+    "强化学习/模型预测控制方法.md",
+    "强化学习/策略梯度_3.md",
+    "强化学习/策略梯度_2.md",
+    "强化学习/策略梯度.md",
+    "强化学习/策略梯度_4.md",
+    "强化学习/PPO.md",
+    "强化学习/images/Pasted image 20230823225214.png",
+    "强化学习/images/Pasted image 20230823224241.png",
+    "PyTorch/3. TensorBoard.md",
     "深度学习/基础知识.md",
-    "Kaggle/基础使用.md",
+    "Gym使用/Gym.md",
+    "Gym使用/images/Pasted image 20230821152205.png",
+    "Gym使用/images/Pasted image 20230821152151.png",
+    "OpenAI/Gym.md",
+    "pip/配合Clash.md",
+    "pip/更新pip.md",
+    "强化学习/gym.md",
+    "强化学习/images/Pasted image 20230820171643.png",
+    "强化学习/images/Pasted image 20230820171157.png",
+    "强化学习/基础.md",
+    "强化学习/DQN.md",
+    "强化学习/images/Pasted image 20230818224026.png",
+    "强化学习/images/Pasted image 20230818224005.png",
+    "强化学习/images/Pasted image 20230818223920.png",
+    "PyTorch/神经网络.md",
+    "PyTorch/2. 基础知识.md",
+    "PyTorch/1. 安装.md",
+    "Anaconda/切换环境.md",
+    "强化学习/基础代码.md",
+    "强化学习/符号含义.md",
+    "Latex/基础知识.md",
+    "生活笔记.md",
+    "Latex",
+    "强化学习/behavioral cloning.md",
+    "Github/本地文件放到GitHub.md",
+    "OpenAI/images",
+    "OpenAI",
     "Kaggle/images",
     "Kaggle",
     "深度学习/images",
     "深度学习",
-    "强化学习/基础代码.md",
-    "强化学习/策略梯度.md",
-    "PyTorch/模型保存.md",
-    "Anaconda/切换环境.md",
-    "PyTorch/1. 安装.md",
-    "pip/更新pip.md",
     "强化学习/images",
     "强化学习",
-    "PyTorch/4. Transforms.md",
-    "PyTorch/2. 基础知识.md",
-    "PyTorch/3. TensorBoard.md",
-    "PyTorch/使用Gpu.md",
-    "PyTorch/官网模型.md",
-    "PyTorch/神经网络.md",
-    "PyTorch/Data/hymenoptera_data.zip",
-    "PyTorch/Data/未确认 503859.crdownload"
+    "PyTorch/Data/hymenoptera_data.zip"
   ]
 }

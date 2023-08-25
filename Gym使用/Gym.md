@@ -44,13 +44,19 @@ time.sleep(0.1)
 第一个程序就运行完成了。
 
 
+# box2d 下载错误
+如果出现这个错误
 
+```python
+error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+```
 
+**安装Microsoft C++ 生成工具 - Visual(视觉) Studio**：[https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
 
-
-
-
-
+![](images/Pasted%20image%2020230821152151.png)
+然后勾选使用c++的桌面开发
+![](images/Pasted%20image%2020230821152205.png)
+等待下载安装成功，然后就可以了。
 
 
 

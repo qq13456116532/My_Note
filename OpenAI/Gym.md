@@ -1,5 +1,23 @@
 目前发现python3.9，gym0.26是可以配合使用的。
 
+
+
+如果不知道需要的是哪个游戏，那么可以使用： 
+
+```python
+import gym  
+  
+for item in gym.envs.registry.keys():  
+	print(item)
+```
+
+
+
+
+
+
+
+
 先来一段代码：
 
 ```python
@@ -31,7 +49,53 @@ step（）函数在仿真器中扮演物理引擎的⾓⾊。其输⼊是动作a
 
 
 
-# GridEnv
+# Breakout 打砖块
+基础代码:
+
+```python
+    env = gym.make('Breakout-ramNoFrameskip-v4',render_mode='human')
+    o = env.reset()
+    while True:
+        env.render()
+        a = env.action_space.sample()
+        observation,reward,terminated,truncated,info=env.step(a)
+        if(terminated):
+            break
+    env.close()
+```
+如果人类观看使用`human`模式，训练则使用`rgb_array`
+游戏 id 中的 NoFrameskip 意味着没有跳帧和动作重复，而 v4 意思是当前 为第 4 个版本
+产生的效果如下：
+![](images/Pasted%20image%2020230815222721.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

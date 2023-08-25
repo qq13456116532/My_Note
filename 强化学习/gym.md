@@ -46,6 +46,11 @@ print('over=', over)
 
 
 
+# 将state转化为tensor
+
+```python
+state_ = torch.tensor([state_], dtype=torch.float32)
+```
 
 
 
