@@ -9,6 +9,7 @@ PPO算法的基本思想是通过最小化相邻策略之间的差异来保证�
 
 **优势函数**可以使用GAE来获得，也可以不使用，那么就直接求：
 ![](images/Pasted%20image%2020230823225214.png)
+在这里就是![](images/Pasted%20image%2020230915180656.png)
 Generalized Advantage Estimation 是一种估计强化学习中的优势函数（advantage function）的技术
 GAE通过结合多个时间步的奖励和值估计来计算优势，从而提供了一种偏差和方差之间的权衡。
 GAE的计算：
