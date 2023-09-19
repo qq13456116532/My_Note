@@ -4,45 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e93f611d35de667a",
+        "id": "e5cf311479b8f0b1",
         "type": "tabs",
         "children": [
           {
-            "id": "35cdc002d28f01ba",
+            "id": "c5b0334a49c67d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PyTorch/3. TensorBoard.md",
+                "file": "Gym使用/Gym.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bda8e9a15a09ad2c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "adeca9bd4457dd19",
+            "id": "473a3fb6c4627954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习.md",
+                "file": "Docker/Docker-Desktop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习.md",
+                "file": "Gym使用/Gym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器学习.md",
+                "file": "Gym使用/Gym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器学习.md"
+                "file": "Gym使用/Gym.md"
               }
             }
           },
@@ -187,26 +176,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "adeca9bd4457dd19",
+  "active": "c5b0334a49c67d81",
   "lastOpenFiles": [
-    "images/Pasted image 20230916102201.png",
-    "images/Pasted image 20230916101847.png",
-    "images/Pasted image 20230916101409.png",
-    "images",
-    "机器学习.md",
+    "Docker/Docker-Desktop.md",
+    "Docker/基础命令.md",
+    "Gym使用/Gym.md",
+    "Gym使用/images/Pasted image 20230918214308.png",
+    "Gym使用/images/Pasted image 20230918214146.png",
+    "Gym使用/images/Pasted image 20230918214109.png",
+    "Gym使用/images/Pasted image 20230918210739.png",
+    "Gym使用/images/Pasted image 20230918210711.png",
+    "未命名.md",
+    "Docker/images/Pasted image 20230918204435.png",
+    "Docker/images/Pasted image 20230918202327.png",
+    "Docker/images/Pasted image 20230918201727.png",
+    "Docker/images",
+    "机器学习/images/Pasted image 20230916102201.png",
+    "images/Pasted image 20230918201653.png",
+    "机器学习/机器学习.md",
+    "Docker",
+    "强化学习/分布式强化学习.md",
+    "PyTorch/3. TensorBoard.md",
+    "强化学习/PPO.md",
+    "机器学习/images",
     "机器学习",
     "强化学习/SAC.md",
-    "强化学习/images/Pasted image 20230915191204.png",
-    "强化学习/images/Pasted image 20230915191138.png",
-    "强化学习/images/Pasted image 20230915191130.png",
     "强化学习/TD3.md",
     "强化学习/DDPG.md",
-    "强化学习/images/Pasted image 20230915181804.png",
-    "强化学习/images/Pasted image 20230915181632.png",
-    "强化学习/images/Pasted image 20230915181611.png",
-    "强化学习/images/Pasted image 20230915181511.png",
-    "强化学习/images/Pasted image 20230915181441.png",
-    "强化学习/PPO.md",
     "强化学习/基础.md",
     "强化学习/基础代码.md",
     "强化学习/模型预测控制方法.md",
@@ -216,24 +212,16 @@
     "强化学习/策略梯度_4.md",
     "强化学习/策略梯度_3.md",
     "强化学习/策略梯度_2.md",
-    "PyTorch/3. TensorBoard.md",
     "Github/本地文件放到GitHub.md",
     "PyTorch/使用Gpu.md",
     "深度学习/基础知识.md",
-    "Gym使用/Gym.md",
     "OpenAI/Gym.md",
     "pip/配合Clash.md",
-    "pip/更新pip.md",
-    "强化学习/gym.md",
-    "强化学习/DQN.md",
-    "PyTorch/神经网络.md",
     "Latex",
     "OpenAI/images",
     "OpenAI",
     "Kaggle/images",
     "Kaggle",
-    "深度学习/images",
-    "深度学习",
-    "强化学习/images"
+    "深度学习/images"
   ]
 }
