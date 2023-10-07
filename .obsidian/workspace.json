@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5cf311479b8f0b1",
+        "id": "d9a4be42ce1d13a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b0334a49c67d81",
+            "id": "89583038721a8f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym使用/Gym.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "473a3fb6c4627954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker-Desktop.md",
+                "file": "Gym使用/Gym-Dssat.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym使用/Gym.md",
+                "file": "Gym使用/Gym-Dssat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gym使用/Gym.md",
+                "file": "Gym使用/Gym-Dssat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gym使用/Gym.md"
+                "file": "Gym使用/Gym-Dssat.md"
               }
             }
           },
@@ -176,52 +164,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5b0334a49c67d81",
+  "active": "89583038721a8f43",
   "lastOpenFiles": [
+    "PowerPoint/基础.md",
+    "VMware/基础.md",
+    "PowerPoint/images/Pasted image 20231006100455.png",
+    "PowerPoint/images/Pasted image 20231006100255.png",
+    "PowerPoint/images/Pasted image 20231006095814.png",
+    "PowerPoint/images/Pasted image 20231006095757.png",
+    "PowerPoint/images",
+    "Gym使用/Gym-Dssat.md",
+    "PowerPoint",
+    "Gym使用/images/Pasted image 20231005195304.png",
+    "Gym使用/images/Pasted image 20231005194506.png",
+    "Gym使用/images/Pasted image 20231005192228.png",
+    "Gym使用/images/Pasted image 20231005190709.png",
+    "Latex/基础知识.md",
+    "VMware/images/Pasted image 20231005170748.png",
+    "VMware/images/Pasted image 20231005170702.png",
+    "VMware/images",
+    "VMware/image",
+    "VMware",
+    "Ubuntu/基础使用.md",
+    "Latex/images",
+    "Gym使用/Gym.md",
+    "OpenAI/Gym.md",
+    "Hadoop/安装.md",
+    "Clash for Windows/解决虚拟机代理问题.md",
+    "Anaconda/切换环境.md",
+    "Hadoop/images",
+    "Ubuntu/创建并使用win连接.md",
+    "Hadoop",
+    "强化学习/分布式强化学习.md",
+    "Clash for Windows/解决打不开微软商店问题.md",
+    "强化学习/A3C.md",
+    "强化学习/gym.md",
+    "强化学习/连续动作空间.md",
+    "强化学习/SAC.md",
+    "Ubuntu/images",
+    "Ubuntu",
     "Docker/Docker-Desktop.md",
     "Docker/基础命令.md",
-    "Gym使用/Gym.md",
-    "Gym使用/images/Pasted image 20230918214308.png",
-    "Gym使用/images/Pasted image 20230918214146.png",
-    "Gym使用/images/Pasted image 20230918214109.png",
-    "Gym使用/images/Pasted image 20230918210739.png",
-    "Gym使用/images/Pasted image 20230918210711.png",
     "未命名.md",
-    "Docker/images/Pasted image 20230918204435.png",
-    "Docker/images/Pasted image 20230918202327.png",
-    "Docker/images/Pasted image 20230918201727.png",
-    "Docker/images",
-    "机器学习/images/Pasted image 20230916102201.png",
-    "images/Pasted image 20230918201653.png",
     "机器学习/机器学习.md",
-    "Docker",
-    "强化学习/分布式强化学习.md",
     "PyTorch/3. TensorBoard.md",
     "强化学习/PPO.md",
-    "机器学习/images",
-    "机器学习",
-    "强化学习/SAC.md",
     "强化学习/TD3.md",
-    "强化学习/DDPG.md",
-    "强化学习/基础.md",
-    "强化学习/基础代码.md",
-    "强化学习/模型预测控制方法.md",
-    "强化学习/策略梯度.md",
-    "强化学习/符号含义.md",
-    "强化学习/多智能体.md",
-    "强化学习/策略梯度_4.md",
-    "强化学习/策略梯度_3.md",
-    "强化学习/策略梯度_2.md",
-    "Github/本地文件放到GitHub.md",
-    "PyTorch/使用Gpu.md",
-    "深度学习/基础知识.md",
-    "OpenAI/Gym.md",
-    "pip/配合Clash.md",
-    "Latex",
-    "OpenAI/images",
-    "OpenAI",
-    "Kaggle/images",
-    "Kaggle",
-    "深度学习/images"
+    "强化学习/DDPG.md"
   ]
 }
