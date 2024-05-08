@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a4be42ce1d13a2",
+        "id": "b2c520c2733a9c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "89583038721a8f43",
+            "id": "c563dbb067683fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym使用/Gym-Dssat.md",
+                "file": "强化学习/CTDE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9ff131595f5cd7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/pip/配合Clash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym使用/Gym-Dssat.md",
+                "file": "Python/pip/配合Clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gym使用/Gym-Dssat.md",
+                "file": "Python/pip/配合Clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gym使用/Gym-Dssat.md"
+                "file": "Python/pip/配合Clash.md"
               }
             }
           },
@@ -143,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -164,52 +179,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89583038721a8f43",
+  "active": "b9ff131595f5cd7f",
   "lastOpenFiles": [
-    "PowerPoint/基础.md",
-    "VMware/基础.md",
-    "PowerPoint/images/Pasted image 20231006100455.png",
-    "PowerPoint/images/Pasted image 20231006100255.png",
-    "PowerPoint/images/Pasted image 20231006095814.png",
-    "PowerPoint/images/Pasted image 20231006095757.png",
-    "PowerPoint/images",
-    "Gym使用/Gym-Dssat.md",
-    "PowerPoint",
-    "Gym使用/images/Pasted image 20231005195304.png",
-    "Gym使用/images/Pasted image 20231005194506.png",
-    "Gym使用/images/Pasted image 20231005192228.png",
-    "Gym使用/images/Pasted image 20231005190709.png",
-    "Latex/基础知识.md",
-    "VMware/images/Pasted image 20231005170748.png",
-    "VMware/images/Pasted image 20231005170702.png",
-    "VMware/images",
-    "VMware/image",
-    "VMware",
-    "Ubuntu/基础使用.md",
-    "Latex/images",
-    "Gym使用/Gym.md",
-    "OpenAI/Gym.md",
-    "Hadoop/安装.md",
-    "Clash for Windows/解决虚拟机代理问题.md",
-    "Anaconda/切换环境.md",
-    "Hadoop/images",
-    "Ubuntu/创建并使用win连接.md",
-    "Hadoop",
-    "强化学习/分布式强化学习.md",
-    "Clash for Windows/解决打不开微软商店问题.md",
-    "强化学习/A3C.md",
-    "强化学习/gym.md",
-    "强化学习/连续动作空间.md",
-    "强化学习/SAC.md",
-    "Ubuntu/images",
-    "Ubuntu",
-    "Docker/Docker-Desktop.md",
-    "Docker/基础命令.md",
-    "未命名.md",
-    "机器学习/机器学习.md",
+    "IDEA/基础使用.md",
+    "强化学习/CTDE.md",
+    "IDEA/images/Pasted image 20240508144039.png",
+    "IDEA/images/Pasted image 20240508144025.png",
+    "Python/pip/配合Clash.md",
+    "强化学习/多智能体强化学习.md",
+    "Anaconda/清除多余的包.md",
+    "Python/matplotlib/基础使用.md",
+    "Python/matplotlib/images/Pasted image 20240506215938.png",
+    "Python/matplotlib/images/Pasted image 20240506215927.png",
+    "Python/matplotlib/images",
+    "Java/安装.md",
+    "Java/images/Pasted image 20240506093632.png",
+    "Java/images/Pasted image 20240506093540.png",
+    "Java/images/Pasted image 20240506093512.png",
+    "Java/images/Pasted image 20240506093228.png",
+    "Java/images",
+    "IDEA/识别子文件的项目.md",
+    "Java",
+    "IDEA/images/Pasted image 20240506091324.png",
+    "IDEA/images/Pasted image 20240506091311.png",
+    "Mysql/安装.md",
+    "Mysql/images",
+    "Python/pip/更新pip.md",
+    "Mysql",
     "PyTorch/3. TensorBoard.md",
-    "强化学习/PPO.md",
-    "强化学习/TD3.md",
-    "强化学习/DDPG.md"
+    "OpenAI Gym/PettingZoo/基础使用.md",
+    "OpenAI Gym/Gym.md",
+    "OpenAI Gym/Gym-Dssat.md",
+    "OpenAI Gym/PettingZoo/images",
+    "OpenAI Gym/PettingZoo",
+    "Anaconda/切换环境.md",
+    "C++/visual studio使用.md",
+    "Python/matplotlib",
+    "Python/基础使用.md",
+    "Python",
+    "IDEA/images",
+    "论文/灾后无人机网络/搜索关键词.md",
+    "论文/灾后无人机网络/专有词.md",
+    "C++/Qt/基础.md",
+    "C++/Qt/安装及使用方法.md",
+    "论文/Arxiv基础使用.md",
+    "强化学习/强化学习_23_11_28.md",
+    "强化学习/强化学习_24_01_26.md",
+    "强化学习/强化学习_modern.md"
   ]
 }

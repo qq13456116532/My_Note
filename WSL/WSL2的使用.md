@@ -9,6 +9,9 @@ winver
 
 ![[Pasted image 20230702211655.png]]
 
+# 查看文件夹
+打开 Windows 资源管理器，然后在地址栏中输入 `\\wsl$`，按 Enter 键。这将显示所有可用的 WSL 发行版
+
 
 # WSL更新
 如果当前是WSL1，那么首先需要更新到WSL2
