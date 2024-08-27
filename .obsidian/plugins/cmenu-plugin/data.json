@@ -35,16 +35,6 @@
       "id": "workspace:toggle-pin",
       "name": "解锁/锁定",
       "icon": "lucide-pin"
-    },
-    {
-      "id": "obsidian-git:commit",
-      "name": "Obsidian Git: Commit all changes",
-      "icon": "checkmark"
-    },
-    {
-      "id": "obsidian-git:push2",
-      "name": "Obsidian Git: Push",
-      "icon": "cloud"
     }
   ],
   "appendMethod": "workspace",
