@@ -4,35 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "b2c520c2733a9c8e",
+        "id": "f975f22bd47b717a",
         "type": "tabs",
         "children": [
           {
-            "id": "c563dbb067683fca",
+            "id": "e04341f10eccc156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/CTDE.md",
+                "file": "论文/灾后无人机网络/搜索关键词.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9ff131595f5cd7f",
+            "id": "1159295a18c61058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/pip/配合Clash.md",
+                "file": "论文/灾后无人机网络/一些总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00affcb3616b5fc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/基础-新.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "403bf283a32f9da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/基础.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"C++/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/pip/配合Clash.md",
+                "file": "Vue/基础-新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/pip/配合Clash.md",
+                "file": "Vue/基础-新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/pip/配合Clash.md"
+                "file": "Vue/基础-新.md"
               }
             }
           },
@@ -179,52 +205,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9ff131595f5cd7f",
+  "active": "00affcb3616b5fc3",
   "lastOpenFiles": [
-    "IDEA/基础使用.md",
-    "强化学习/CTDE.md",
-    "IDEA/images/Pasted image 20240508144039.png",
-    "IDEA/images/Pasted image 20240508144025.png",
-    "Python/pip/配合Clash.md",
-    "强化学习/多智能体强化学习.md",
-    "Anaconda/清除多余的包.md",
-    "Python/matplotlib/基础使用.md",
-    "Python/matplotlib/images/Pasted image 20240506215938.png",
-    "Python/matplotlib/images/Pasted image 20240506215927.png",
-    "Python/matplotlib/images",
-    "Java/安装.md",
-    "Java/images/Pasted image 20240506093632.png",
-    "Java/images/Pasted image 20240506093540.png",
-    "Java/images/Pasted image 20240506093512.png",
-    "Java/images/Pasted image 20240506093228.png",
-    "Java/images",
-    "IDEA/识别子文件的项目.md",
-    "Java",
-    "IDEA/images/Pasted image 20240506091324.png",
-    "IDEA/images/Pasted image 20240506091311.png",
-    "Mysql/安装.md",
-    "Mysql/images",
-    "Python/pip/更新pip.md",
-    "Mysql",
-    "PyTorch/3. TensorBoard.md",
-    "OpenAI Gym/PettingZoo/基础使用.md",
-    "OpenAI Gym/Gym.md",
-    "OpenAI Gym/Gym-Dssat.md",
-    "OpenAI Gym/PettingZoo/images",
-    "OpenAI Gym/PettingZoo",
-    "Anaconda/切换环境.md",
-    "C++/visual studio使用.md",
-    "Python/matplotlib",
-    "Python/基础使用.md",
-    "Python",
-    "IDEA/images",
     "论文/灾后无人机网络/搜索关键词.md",
-    "论文/灾后无人机网络/专有词.md",
-    "C++/Qt/基础.md",
-    "C++/Qt/安装及使用方法.md",
+    "Vue/基础.md",
+    "Vue/基础-新.md",
+    "论文/灾后无人机网络/一些总结.md",
+    "().md",
     "论文/Arxiv基础使用.md",
-    "强化学习/强化学习_23_11_28.md",
-    "强化学习/强化学习_24_01_26.md",
-    "强化学习/强化学习_modern.md"
+    "Vue/路由Router.md",
+    "Vue/json-server.md",
+    "Vue/Axios.md",
+    "Vue/Tailwind CSS.md",
+    "Vue/images/Pasted image 20240827105829.png",
+    "Vue/images/Pasted image 20240827105603.png",
+    "Vue/VUEX.md",
+    "Vue/vue-toastification.md",
+    "Vue/vue-spinner.md",
+    "Vue/Vite.md",
+    "Vue/PrimeIcons.md",
+    "Vue/images/Pasted image 20240826185431.png",
+    "Vue/images/Pasted image 20240826111626.png",
+    "Vue/images/Pasted image 20240826111055.png",
+    "Vue/images/Pasted image 20240824212704.png",
+    "Vue/images/Pasted image 20240824205808.png",
+    "Vue/images/Pasted image 20240824190839.png",
+    "Vue/images/Pasted image 20240823203847.png",
+    "Vue/images/Pasted image 20240823201220.png",
+    "IDEA/基础使用.md",
+    "C++/Qt6.0/Qt Quick.md",
+    "C++/Qt6.0/基础知识.md",
+    "C++/Qt6.0/基础使用.md",
+    "Node.js/基础.md",
+    "Github/本地文件放到GitHub.md",
+    "Github/实现中英文两个Readme切换.md",
+    "Python/matplotlib/基础使用.md",
+    "论文/信道分配/关键词.md",
+    "论文/灾后无人机网络/images",
+    "论文/灾后无人机网络/专有词.md",
+    "C++/Qt/安装及使用方法.md",
+    "C++/Qt6.0/images",
+    "C++/Qt6.0",
+    "C++/Walnut/images",
+    "C++/Walnut",
+    "论文/信道分配",
+    "C++/ImGui/images",
+    "C++/ImGui",
+    "C++/Boost/images",
+    "C++/Boost"
   ]
 }
