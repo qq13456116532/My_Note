@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./images",
   "alwaysUpdateLinks": true,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "defaultViewMode": "preview"
 }

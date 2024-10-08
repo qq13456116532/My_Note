@@ -1,10 +1,11 @@
 [
-  "calendar",
   "obsidian-mind-map",
   "cmenu-plugin",
   "obsidian-copy-block-link",
   "obsidian-plugin-toc",
   "quick-latex",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-emoji-toolbar",
+  "obsidian-admonition"
 ]

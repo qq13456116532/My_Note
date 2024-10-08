@@ -63,7 +63,7 @@ wsl --list -v
 点击这个也可以启动Ubuntu的WSL，如下![[Pasted image 20230702215856.png]]
 
 
-# WSL的GUI可视化
+# WSL的GUI可视化（不建议使用）
 
 ```shell
 sudo apt update
@@ -140,6 +140,8 @@ wsl -d Ubuntu
 ![[Pasted image 20230703123527.png]]
 成功进入。
 
+# 启动虚拟机平台
+上面的操作有时候可能是关闭状态：![](images/Pasted%20image%2020240910164158.png)那么打开控制面板，打开程序![](images/Pasted%20image%2020240910164309.png)点击![](images/Pasted%20image%2020240910164327.png)把这个打勾：![](images/Pasted%20image%2020240910164349.png)然后重启就可以了，此时进行上面进入WSL的操作就不会出问题了。
 
 
 

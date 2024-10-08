@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f975f22bd47b717a",
+        "id": "d893518998ad0b71",
         "type": "tabs",
         "children": [
           {
-            "id": "e04341f10eccc156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文/灾后无人机网络/搜索关键词.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1159295a18c61058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文/灾后无人机网络/一些总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00affcb3616b5fc3",
+            "id": "59215bf5255489d4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/基础-新.md",
+                "file": "C++/基础-新.md",
                 "mode": "source",
                 "source": false
               },
@@ -46,12 +22,26 @@
             }
           },
           {
-            "id": "403bf283a32f9da3",
+            "id": "ec6001740d293e7e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/灾后无人机网络/一些总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9d83c03af254cfa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/基础.md",
+                "file": "C#/Blazor/基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"C++/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8951f4dfe6ff697e",
@@ -124,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/基础-新.md",
+                "file": "C#/Blazor/基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/基础-新.md",
+                "file": "C#/Blazor/基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,16 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/基础-新.md"
+                "file": "C#/Blazor/基础.md"
               }
-            }
-          },
-          {
-            "id": "6da60e750402f2da",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -205,53 +187,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00affcb3616b5fc3",
+  "active": "9d83c03af254cfa5",
   "lastOpenFiles": [
-    "论文/灾后无人机网络/搜索关键词.md",
-    "Vue/基础.md",
-    "Vue/基础-新.md",
+    "C#/MAUI/MAUI.md",
+    "C#/Blazor/基础.md",
+    "C#/Blazor",
+    "C#/MAUI/导航.md",
+    "C#/MAUI/images/Pasted image 20241008201953.png",
+    "C#/MAUI/images/Pasted image 20241008201108.png",
+    "C#/MAUI/XAML.md",
+    "C#/MAUI/images/Pasted image 20241008192046.png",
+    "C#/MAUI/images/Pasted image 20241008171042.png",
+    "C#/MAUI/images/Pasted image 20241008170946.png",
     "论文/灾后无人机网络/一些总结.md",
-    "().md",
-    "论文/Arxiv基础使用.md",
-    "Vue/路由Router.md",
-    "Vue/json-server.md",
-    "Vue/Axios.md",
-    "Vue/Tailwind CSS.md",
-    "Vue/images/Pasted image 20240827105829.png",
-    "Vue/images/Pasted image 20240827105603.png",
-    "Vue/VUEX.md",
-    "Vue/vue-toastification.md",
-    "Vue/vue-spinner.md",
-    "Vue/Vite.md",
-    "Vue/PrimeIcons.md",
-    "Vue/images/Pasted image 20240826185431.png",
-    "Vue/images/Pasted image 20240826111626.png",
-    "Vue/images/Pasted image 20240826111055.png",
-    "Vue/images/Pasted image 20240824212704.png",
-    "Vue/images/Pasted image 20240824205808.png",
-    "Vue/images/Pasted image 20240824190839.png",
-    "Vue/images/Pasted image 20240823203847.png",
-    "Vue/images/Pasted image 20240823201220.png",
-    "IDEA/基础使用.md",
+    "C#/MAUI/images/Pasted image 20241008164945.png",
+    "C#/MAUI/images/Pasted image 20241008164933.png",
+    "C#/MAUI/images",
+    "C#/MAUI",
+    "C#/images/Pasted image 20241008092355.png",
+    "C#/images/Pasted image 20241008090020.png",
+    "C#/images/Pasted image 20241007215603.png",
+    "C#/基础.md",
+    "VScode/基础.md",
+    "C++/基础-新.md",
+    "C#/images",
+    "C#",
+    "VScode/配置Qt环境.md",
     "C++/Qt6.0/Qt Quick.md",
-    "C++/Qt6.0/基础知识.md",
     "C++/Qt6.0/基础使用.md",
-    "Node.js/基础.md",
-    "Github/本地文件放到GitHub.md",
-    "Github/实现中英文两个Readme切换.md",
-    "Python/matplotlib/基础使用.md",
-    "论文/信道分配/关键词.md",
+    "C++/Qt6.0/基础知识.md",
+    "C++/智能指针.md",
+    "C++/智能指针",
+    "C++/基础笔记.md",
+    "C++/下载编译器.md",
+    "C++/MSV使用C++.md",
+    "C++/Boost/基础使用.md",
+    "服务器/Tomcat/安装.md",
+    "OpenAI/Gym.md",
+    "Kaggle/基础使用.md",
+    "Anaconda/切换环境.md",
+    "Anaconda/清除多余的包.md",
+    "Anaconda/在pycharm中使用.md",
+    "Hadoop/Hadoop安装.md",
+    "Hadoop/MapReduce安装.md",
+    "Hadoop/HBase安装.md",
+    "Electron/images",
+    "Electron",
     "论文/灾后无人机网络/images",
-    "论文/灾后无人机网络/专有词.md",
-    "C++/Qt/安装及使用方法.md",
-    "C++/Qt6.0/images",
-    "C++/Qt6.0",
-    "C++/Walnut/images",
-    "C++/Walnut",
-    "论文/信道分配",
-    "C++/ImGui/images",
-    "C++/ImGui",
-    "C++/Boost/images",
-    "C++/Boost"
+    "C++/Qt6.0/images"
   ]
 }

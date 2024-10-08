@@ -35,6 +35,17 @@
       "id": "workspace:toggle-pin",
       "name": "解锁/锁定",
       "icon": "lucide-pin"
+    },
+    {
+      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
+      "name": "Emoji Toolbar: Open emoji picker",
+      "hotkeys": [],
+      "icon": "bot-glyph"
+    },
+    {
+      "id": "obsidian-admonition:insert-admonition",
+      "name": "Admonition: Insert Admonition",
+      "icon": "add-note-glyph"
     }
   ],
   "appendMethod": "workspace",
